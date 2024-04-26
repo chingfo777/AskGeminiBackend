@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\askgemini.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:askgemini.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|c:\\users\\dell\\onedrive\\documents\\github\\askgeminibackend\\migrations\\20240425212755_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFA8650-CC0A-42A2-88A3-2C59CEF3D76D}|AskGemini.csproj|solutionrelative:migrations\\20240425212755_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:28:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:48:17.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBBwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:29:43.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:34:30.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Helper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:37:29.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Seed.cs",
+              "RelativeDocumentMoniker": "Seed.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Seed.cs",
+              "RelativeToolTip": "Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:52:13.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:54:33.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:03:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:51:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T21:17:04.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240425212755_Initial-Create.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Migrations\\20240425212755_Initial-Create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240425212755_Initial-Create.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\Migrations\\20240425212755_Initial-Create.cs",
+              "RelativeToolTip": "Migrations\\20240425212755_Initial-Create.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:27:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AskGemini.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\AskGemini.http",
+              "RelativeDocumentMoniker": "AskGemini.http",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\GitHub\\AskGeminiBackend\\AskGemini.http",
+              "RelativeToolTip": "AskGemini.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-25T21:27:36.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
