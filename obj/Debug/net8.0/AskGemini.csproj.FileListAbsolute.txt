@@ -275,3 +275,5 @@ C:\Users\DELL\OneDrive\Documents\GitHub\AskGeminiBackend\obj\Debug\net8.0\refint
 C:\Users\DELL\OneDrive\Documents\GitHub\AskGeminiBackend\obj\Debug\net8.0\AskGemini.pdb
 C:\Users\DELL\OneDrive\Documents\GitHub\AskGeminiBackend\obj\Debug\net8.0\AskGemini.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Documents\GitHub\AskGeminiBackend\obj\Debug\net8.0\ref\AskGemini.dll
+C:\Users\DELL\OneDrive\Documents\GitHub\AskGeminiBackend\bin\Debug\net8.0\Docker.DotNet.dll
+C:\Users\DELL\OneDrive\Documents\GitHub\AskGeminiBackend\bin\Debug\net8.0\Newtonsoft.Json.dll

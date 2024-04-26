@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("56f04657-e42d-433f-a784-fd3b832bfd3c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AskGemini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b64702cea6c6a9812cb7ddf56d2768a6dd58e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df588ef64751bec01809d9262c0b66a907832d95")]
 [assembly: System.Reflection.AssemblyProductAttribute("AskGemini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AskGemini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
